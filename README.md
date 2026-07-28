@@ -31,3 +31,6 @@ Here are some visuals of the Agricultural Rover in action:
 | Arduino / Raspberry Pi / ESP 32 / ESP 8266 | Soil moisture 🌱, Temperature 🌡️, Humidity 💦 | Python 🐍, C++ 💻 | Data logging 📊 & Analytics 📡 |
 
 ---
+
+
+https://youngscientistindia.org/innovationAwardsWinners.php?AwardID=100033
