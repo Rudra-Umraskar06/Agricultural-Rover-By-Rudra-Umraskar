@@ -1,36 +1,42 @@
-# 🌱 Agricultural Rover by Rudra Umraskar
+# 🚜 Agricultural Rover
+> Developed by **Rudra Umraskar**
 
-> 🚜 A **smart, sensor-driven farming assistant** that helps Indian farmers grow more with less — saving **water 💧, time ⏱️, and effort ⚡** while boosting harvests 🌾.
+A **smart, sensor-driven farming assistant** designed to empower Indian farmers. By optimizing resource management, minimizing manual labor, and maximizing crop yields, this autonomous rover brings data-driven intelligence directly to the field.
 
-🔗 **Explore more here:** [🌐 Agri-Bot India Website](https://agri-bot-india-ztk2msp.gamma.site/)
-
----
-
-## ✨ Features
-- 🌾 **Smart Farming**: Sensor-based monitoring of soil, water, and crops  
-- 💧 **Water Efficiency**: Automated irrigation to reduce wastage  
-- ⏱️ **Time Saver**: Autonomous navigation across fields  
-- 📈 **Boosted Harvests**: Data-driven insights for better yields  
+🌐 **[Explore the Agri-Bot India Website](https://agri-bot-india-ztk2msp.gamma.site/)**
 
 ---
 
-## 🎨 Project Preview
-Here are some visuals of the Agricultural Rover in action:
+## ✨ Key Features
 
-![🚜 Futuristic Rover in Fields](/attachments/zZBr6KJHpSSwKbZyM4NqZ.jpeg)  
-*🌟 Advanced rover navigating farmland with sensors and data screens*
-
-![⚙️ Prototype Rover on Table](/attachments/EkPBhULT3Q9r6B16bx35T.jpeg)  
-*📊 Prototype rover showing live environmental readings on digital displays*
+*   **🧠 Smart Farming** — Real-time, sensor-based monitoring of soil conditions, water levels, and crop health.
+*   **💧 Water Efficiency** — Automated precision irrigation systems designed to drastically reduce water wastage.
+*   **⏳ Time Saver** — Fully autonomous navigation across complex, varying farmlands.
+*   **📈 Boosted Harvests** — Advanced, data-driven insights tailored to optimize seasonal crop yields.
 
 ---
 
-## 🛠️ Tech Stack
-| ⚙️ Hardware | 🔌 Sensors | 🧠 Software | ☁️ Cloud |
-|-------------|------------|-------------|----------|
-| Arduino / Raspberry Pi / ESP 32 / ESP 8266 | Soil moisture 🌱, Temperature 🌡️, Humidity 💦 | Python 🐍, C++ 💻 | Data logging 📊 & Analytics 📡 |
+## 📸 Project Preview
+
+### 🌾 Futuristic Rover in Fields
+![Futuristic Rover in Fields](path/to/your/field_image.jpg)
+*> Advanced rover navigating farmland with integrated sensors and data screens*
+
+### 🛠️ Prototype Rover on Table
+![Prototype Rover on Table](path/to/your/prototype_image.jpg)
+*> Prototype rover showing live environmental readings on digital displays*
 
 ---
 
+## 🛠️ Tech Stack & Architecture
 
-https://youngscientistindia.org/innovationAwardsWinners.php?AwardID=100033
+| 🔌 Hardware & Sensors | 💻 Software & Language | ☁️ Cloud & Analytics |
+| :--- | :--- | :--- |
+| • Arduino / Raspberry Pi<br>• ESP32 / ESP8266<br>• Soil Moisture Sensor<br>• Temperature Sensor<br>• Humidity Sensor | • Python<br>• C++ | • Data Logging<br>• Analytics Dashboard |
+
+---
+
+## 🏆 Achievements & Recognition
+
+This project was recognized and awarded for its innovation in agricultural technology:
+🔗 [Young Scientist India Innovation Award Winner (ID: 100033)](https://youngscientistindia.org)
