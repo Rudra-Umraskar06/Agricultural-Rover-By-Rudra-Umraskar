@@ -39,4 +39,4 @@ A **smart, sensor-driven farming assistant** designed to empower Indian farmers.
 ## 🏆 Achievements & Recognition
 
 This project was recognized and awarded for its innovation in agricultural technology:
-🔗 [Young Scientist India Innovation Award Winner (ID: 100033)](https://youngscientistindia.org)
+🔗 https://youngscientistindia.org/innovationAwardsWinners.php?AwardID=100033
